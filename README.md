@@ -16,7 +16,7 @@ Apps work with permissions. A malicious app acquires more permissions than the a
 
 About a month back, the government of India decided to ban a number of chinese made apps due to them being guilty of stealing data. One such app was Du Privacy. We are proposing to build an indigenously developed privacy app that will do much more than what Du Privacy was said to do to help protect your privacy at the app level.
 
-![](RackMultipart20200723-4-i5lnov_html_a8162e81491ba50d.png)
+![](b2p1.png)
 
 ## Operational Instructions
 
