@@ -8,7 +8,7 @@ BUTTONTOPRIVACY(B2p)
 
 The short answer is no. Wouldn&#39;t you like to keep certain parts of their lives private?? We do too. And therefore we introduce to you the button to privacy (B2p). It&#39;s time to take your privacy back.
 
-![alt text](https://drive.google.com/file/d/1enApIIlnU6nUHQ7Djm9oQYbUG3k1LrSX)
+![alt text](images/Phone.png)
 
 **Many such sensors located in your smartphone and apps can read data anytime from these. Some malicious apps can exploit this to invade your privacy.**
 
@@ -16,7 +16,7 @@ Apps work with permissions. A malicious app acquires more permissions than the a
 
 About a month back, the government of India decided to ban a number of chinese made apps due to them being guilty of stealing data. One such app was Du Privacy. We are proposing to build an indigenously developed privacy app that will do much more than what Du Privacy was said to do to help protect your privacy at the app level.
 
-![](b2p1.png)
+![](images/Flowchart.png)
 
 ## Operational Instructions
 
