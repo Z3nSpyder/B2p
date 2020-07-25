@@ -51,7 +51,8 @@ About a month back, the government of India decided to ban a number of chinese m
 
 ## Compatibility
 
-The application is compatible on most phones which run on android. Some phones such as one plus are not comparable to run the app.
+1.The application is compatible on most phones which run on android. Some phones such as one plus are not comparable to run the app.
+2.The application is only designed to work in portrait mode for the time being.
 
 ## Requirements and Permissions
 
