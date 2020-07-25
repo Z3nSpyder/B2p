@@ -24,7 +24,7 @@ About a month back, the government of India decided to ban a number of chinese m
 
 1. If you have an antivirus software installed on your phone make sure you whitelist B2p as it is not deployed in the play store yet.
 
-1. Press the privacy button.
+1. Press the privacy button once and wait for 5 minutes.
 
 1. The app will process and find out about which apps use permissions that are not needed by them.
 
