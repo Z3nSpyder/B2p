@@ -1,4 +1,4 @@
-BUTTONTOPRIVACY(B2p)
+## BUTTONTOPRIVACY(B2p)
 
 **Team Name:** ZenSpyder
 
@@ -64,6 +64,6 @@ About a month back, the government of India decided to ban a number of chinese m
 2. Better categorization of apps using Machine Learning.
 3. Implementation to work on the OS level to act as a firewall for inbound and outbound connections.
 
-**Conclusion :**
+##Conclusion :
 
 As privacy is the most important thing in this 21th century, our app provides complete protection to your personal data.You will get an awareness of the various permissions of the apps you install. B2P is very much user friendly and easy to use type with many customizable options. Currently it is a basic prototype but after this hackathon many interesting features will be added.
