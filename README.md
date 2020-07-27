@@ -24,42 +24,45 @@ About a month back, the government of India decided to ban a number of chinese m
 
 1. If you have an antivirus software installed on your phone make sure you whitelist B2p as it is not deployed in the play store yet.
 
-1. Press the privacy button once and wait for 5 minutes.
+1. Press the privacy button once and wait for 5 about minutes.
 
 1. The app will process and find out about which apps use permissions that are not needed by them.
 
 1. See the displayed information carefully
 
-1. Review and uninstall flagged apps.
+1. Review the flagged apps.
 
 ## Working
 
 1. Once the user presses the button, B2p extracts information about the apps installed on their phone.
 
-1. B2p then categorizes their apps into predefined categories ( each with their defined permissions). It extracts the category of the app from the Google Playstore.
+1. B2p then categorizes their apps into predefined categories ( each with their defined permissions). It extracts the category of the app from the installed app's manifest.
 
 1. If B2p detects that an app is using permissions not usually required by its category, we flag it.
 
-1. The information is then displayed for review to the user where he can choose to uninstall a few apps or white list them.
+1. The information is then displayed for review to the user where he can review the displayed apps and make sure they are from a trusted reviewer.
 
 1. The unique feature of B2P is that it runs entirely from the user&#39;s side which makes it run quicker than server side applications.
 
 ## Limitations
 
-1. Categorization would work only on applications downloaded from the Google Playstore. All non-Playstore apps will be categorized as &quot;Others&quot; and will be flagged.
+1. Categorization would work only on applications developed after 2016-17. 
 2. Will not work on iOS devices.
 
 ## Compatibility
 
-1.The application is compatible on most phones which run on android. Some phones such as one plus are not comparable to run the app.
+1.The application is compatible on most phones which run on android. Some phones such as One plus are not compatible for the time being.
 2.The application is only designed to work in portrait mode for the time being.
 
 ## Requirements and Permissions
 
 1. No special permissions
-2. Android
 
-B2P is built on and for android devices.
+## Planned improvements
+
+1. Better designed interactive UI
+2. Better categorization of apps using Machine Learning.
+3. Implementation to work on the OS level to act as a firewall for inbound and outbound connections.
 
 **Conclusion :**
 
