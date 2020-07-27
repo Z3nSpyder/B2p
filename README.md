@@ -51,8 +51,9 @@ About a month back, the government of India decided to ban a number of chinese m
 
 ## Compatibility
 
-1.The application is compatible on most phones which run on android. Some phones such as One plus are not compatible for the time being.
-2.The application is only designed to work in portrait mode for the time being.
+1.Min version of Android needed: Oreo
+2.The application is compatible on most phones which run on android. Some phones such as One plus are not compatible for the time being.
+3.The application is only designed to work in portrait mode for the time being.
 
 ## Requirements and Permissions
 
